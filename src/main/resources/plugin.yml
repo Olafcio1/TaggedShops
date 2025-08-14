@@ -1,0 +1,14 @@
+name: TaggedShops
+version: '1.2'
+main: pl.olafcio.taggedShops.Main
+api-version: '1.21'
+prefix: TaggedShops
+load: POSTWORLD
+authors: [ Olafcio ]
+description: Allows more customization over ShopKeepers' names.
+website: https://olafcio1.github.io
+depend:
+  - Shopkeepers
+  - packetevents
+softdepend:
+  - ViaVersion
